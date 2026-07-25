@@ -1,4 +1,4 @@
-# MaisonPlush Privacy Policy
+# MaisonPlush-privacy-policy
 
 This application is used by MaisonPlush to publish pins to our own Pinterest account for promoting our Etsy products.
 
